@@ -1,6 +1,6 @@
 
 # Hi there, I'm Owamagbe David 👋
-I am a final year student at the University of Plymouth, studying Computer Science (Cyber Security). My passion lies in Cyber Security and Web development, and I enjoy exploring these fields through personal projects and academic research.
+I am a recent graduate from the University of Plymouth, that studied Computer Science (Cyber Security). My passion lies in Cyber Security and Web development, and I enjoy exploring these fields through personal projects and academic research.
 
 ### 🔭 Current Projects
 I am currently working on several projects related to Cyber Security and Web development. These projects include:
