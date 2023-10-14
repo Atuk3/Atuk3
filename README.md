@@ -18,7 +18,7 @@ As a lifelong learner, I am always seeking to expand my knowledge and skills. So
 I am always open to collaborate on new projects or discuss ideas related to Cyber Security and Web development. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/david-owamagbe-82a044200/) or via email at owamagbedavid@gmail.com.
 
 ### 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atuke&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atuk3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Atuk3)](https://git.io/streak-stats)
 Thank you for visiting my profile and checking out my projects!
