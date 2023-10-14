@@ -6,6 +6,7 @@ I am a recent graduate from the University of Plymouth, that studied Computer Sc
 I am currently working on several projects related to Cyber Security and Web development. These projects include:
 
 - A malware detection tool for Windows portable executable files using machine learning techniques.
+- A website for a hotel business for customers to make bookings and the admin to manage those bookings.
 - A web application for secure file sharing using cryptographic algorithms.
 - A website for a farm business to shop online and manage sales using a full-stack web development approach.
 ### 🌱 Learning
